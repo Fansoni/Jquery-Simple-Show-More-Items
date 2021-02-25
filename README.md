@@ -9,6 +9,6 @@ In this project, I made a simple **app** that collapses long content with a **vi
 
 I hope that you could enjoy it! 🏃‍♂️🏃‍♂️🏃‍♂️🤸‍♂️🤸‍♂️
 
-### Simple Preview 👁
+# Simple Preview 👁
 
 ![Jquery: Simple Show More Items](preview.gif)
