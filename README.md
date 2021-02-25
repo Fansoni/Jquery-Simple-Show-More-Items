@@ -11,4 +11,4 @@ I hope that you could enjoy it! 🏃‍♂️🏃‍♂️🏃‍♂️🤸‍�
 
 # Simple Preview 👁
 
-![Jquery: Simple Show More Items](https://www.linkedin.com/posts/fansoni-muzanzo-022a79122_fansonimuzanzo-html-javascript-activity-6770667930179973120-JnaQ)
+[See the video in my linkedin](https://www.linkedin.com/posts/fansoni-muzanzo-022a79122_fansonimuzanzo-html-javascript-activity-6770667930179973120-JnaQ)
