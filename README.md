@@ -1,6 +1,6 @@
 # Jquery: Simple Show More Items
 
-![Jquery: Simple Show More Items](preview.PNG)
+![Jquery: Simple Show More Items](images/preview.PNG)
 
 ### Description:
 
@@ -11,4 +11,4 @@ I hope that you could enjoy it! 🏃‍♂️🏃‍♂️🏃‍♂️🤸‍�
 
 # Simple Preview 👁
 
-![Jquery: Simple Show More Items](preview.gif)
+![Jquery: Simple Show More Items](images/preview.gif)
